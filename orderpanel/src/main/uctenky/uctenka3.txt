@@ -1,0 +1,14 @@
+                       ÚČTENKA
+Kód účtenky: 0
+==================================================
+Název produktu                            Cena
+--------------------------------------------------
+Spicy Chicken Sandwich           1    84,90 Kč
+Onion Rings                      1    12,90 Kč
+Cheese Fries                     1    14,90 Kč
+LUL                              1   123,00 Kč
+Vegetarian Wrap                  1    79,90 Kč
+Mozzarella Sticks                2    33,80 Kč
+==================================================
+Celková cena:                           349,40 Kč
+Děkujeme za nákup!
